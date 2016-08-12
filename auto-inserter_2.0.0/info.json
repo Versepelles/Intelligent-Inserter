@@ -1,0 +1,10 @@
+{
+  "name": "auto-inserter",
+  "version": "2.0.0",
+  "title": "Intelligent Inserter",
+  "author": "Zwobot (updated by Versepelles",
+  "contact": "Versepelles or Zwobot at the factorio forums",
+  "description": "Filter inserters set their filters and output limits automatically.",
+  "factorio_version": "0.13",
+  "dependencies": ["base >= 0.13.15"]
+}
